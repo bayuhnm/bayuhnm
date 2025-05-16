@@ -44,7 +44,7 @@
 ### 📚 Most Used Languages
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&langs_count=6&theme=blueberry&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bayuhnm&layout=compact&langs_count=6&theme=blueberry&hide_border=true" alt="Top Languages" />
 </p>
 
 ---
