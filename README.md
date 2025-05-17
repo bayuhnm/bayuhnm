@@ -9,7 +9,7 @@
 
 ---
 
-<img align="right" alt="Coding" width="300" src="https://i.pinimg.com/originals/77/a2/e1/77a2e11e537fa28f2e9c179a089335b5.gif" />
+<img align="right" alt="Dolphin" width="300" src="https://64.media.tumblr.com/14b70aac048f1fb33ab7a6a664e53d42/tumblr_othwc8Vx111r6oew5o1_400.gif" />
 
 ### 👨‍💻 About Me
 - 🔭 I’m currently building scalable mobile apps using Flutter with **BLoC architecture**
