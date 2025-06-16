@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hi there, I'm Bayu Hidayah</h1>
-<h3 align="center">Flutter Developer | BLoC Specialist | Clean Architecture Specialisr</h3>
+<h3 align="center">Flutter Developer | BLoC Specialist | Clean Architecture Specialist</h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Flutter-Expert-blue?logo=flutter&logoColor=white" />
